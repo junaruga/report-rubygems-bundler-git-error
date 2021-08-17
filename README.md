@@ -1,0 +1,1 @@
+# report-rubygems-bundler-git-error
